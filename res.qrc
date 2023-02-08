@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fonts/Roboto-Medium.ttf</file>
+        <file>resources/fonts/Roboto-MediumItalic.ttf</file>
+        <file>resources/images/bg.png</file>
+        <file>resources/images/cross_large.png</file>
+        <file>resources/images/cross_small.png</file>
+        <file>resources/images/name.png</file>
+        <file>resources/images/title_ico.png</file>
+        <file>resources/images/zero_large.png</file>
+        <file>resources/images/zero_small.png</file>
+    </qresource>
+</RCC>
